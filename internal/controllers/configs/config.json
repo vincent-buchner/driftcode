@@ -1,0 +1,25 @@
+{
+  "lang": "html",
+  "username": "test-user",
+  "question": {
+    "questionId": "",
+    "questionTitle": "",
+    "titleSlug": "",
+    "questionLink": "",
+    "question": "",
+    "exampleTestcases": "",
+    "difficulty": "",
+    "topicTagsString": ""
+  },
+  "dailyQuestion": {
+    "questionId": "",
+    "questionTitle": "",
+    "titleSlug": "",
+    "questionLink": "",
+    "question": "",
+    "exampleTestcases": "",
+    "difficulty": "",
+    "topicTagsString": ""
+  },
+  "todayDate": "2025-01-19T10:42:41.922728-07:00"
+}
